@@ -9,7 +9,7 @@
 ## Resources and Tools Used
 **Tools:** Jupyter Notebook
 
-**Packages:** Pandas, NumPy, sklearn, Matplotlib, missingno, seaborn, imblearn and counter
+**Packages:** Pandas, NumPy, sklearn, Matplotlib, seaborn, imblearn and counter.
 
 ## Data Used
 **Data Source**: https://www.kaggle.com/uciml/pima-indians-diabetes-database
